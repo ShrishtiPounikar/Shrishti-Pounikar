@@ -1,5 +1,5 @@
-![logo](https://github.com/ShrishtiPounikar/Shrishti-Pounikar/blob/main/internet.gif)
-<img align="center" src="![image](https://github.com/ShrishtiPounikar/Shrishti-Pounikar/assets/88317813/21613d14-c7a4-42f5-9002-a7430e1db77a)">
+
+<img align="center" width="50vw" alt="logo" src="https://github.com/ShrishtiPounikar/Shrishti-Pounikar/blob/main/coding.gif">
 
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center"></h3>
