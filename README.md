@@ -1,9 +1,8 @@
-
-<img align="center" width="50vw" alt="logo" src="https://github.com/ShrishtiPounikar/Shrishti-Pounikar/blob/main/coding.gif">
+<img align="center" width="1000" src="https://github.com/ShrishtiPounikar/ShrishtiPounikar/blob/main/internet.gif" alt="coding">
 
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center"></h3>
-<img align="right" alt="coding" src="![image](https://github.com/ShrishtiPounikar/Shrishti-Pounikar/assets/88317813/711b223b-2458-4326-a751-5fbc01c9bdd5)">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 
 - 🚀 I'm Shrishti Pounikar
