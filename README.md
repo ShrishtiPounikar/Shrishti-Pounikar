@@ -1,10 +1,10 @@
 ![logo](https://github.com/ShrishtiPounikar/Shrishti-Pounikar/blob/main/internet.gif)
+<img align="center" src="![image](https://github.com/ShrishtiPounikar/Shrishti-Pounikar/assets/88317813/21613d14-c7a4-42f5-9002-a7430e1db77a)">
+
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center"></h3>
+<img align="right" alt="coding" src="![image](https://github.com/ShrishtiPounikar/Shrishti-Pounikar/assets/88317813/711b223b-2458-4326-a751-5fbc01c9bdd5)">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 - 🚀 I'm Shrishti Pounikar
 - 🌱 I’m currently pursuing btech at BVP pune( batch 2024)
