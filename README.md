@@ -1,4 +1,4 @@
-<img align="center" width="1000" src="https://github.com/ShrishtiPounikar/ShrishtiPounikar/blob/main/internet.gif" alt="coding">
+<img align="center" width="1000" height="270vh" src="https://github.com/ShrishtiPounikar/ShrishtiPounikar/blob/main/internet.gif" alt="coding">
 
 <h1 align="center">Hey there 👋</h1>
 <h3 align="center"></h3>
